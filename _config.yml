@@ -65,12 +65,6 @@ jekyll-archives:
   enabled:
     - categories
 
-jekyll-archives:
-  enabled: []
-  layout: 'archive'
-  permalinks:
-    category: '/category/:name/'
-    
 gems:
   - jekyll-archives
   - jekyll-sitemap
